@@ -1,9 +1,9 @@
-describe("Google Page Title Verification", () => {
-  it("should navigate to Google and verify the page title", () => {
-    // Navigate to Google
-    cy.visit("https://www.google.com");
+import "cypress-mochawesome-reporter/register";
 
-    // Verify the page title
-    cy.title().should("eq", "Google");
-  });
+it("should navigate to Google and verify the page title", () => {
+  cy.visit("https://www.google.com");
+  cy.screenshot("navigated-to-google");
+
+  cy.title().should("eq", "Google is not");
+  cy.screenshot("verified-title");
 });
