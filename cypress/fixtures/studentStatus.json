@@ -1,0 +1,12 @@
+{
+    "createData": {
+        "name": "Application Status Cypress",
+        "description": "This is create description.",
+        "color": "#fff"
+    },
+    "updateData": {
+        "name": "John Doe Cypress",
+        "description": "This is Update Description example",
+        "color": "#fff"
+    }
+}
