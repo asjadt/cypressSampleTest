@@ -1,0 +1,12 @@
+{
+    "createData": {
+        "name": "Mathematics cypress",
+        "description": "Mathematics description",
+        "course_id": ""
+    },
+    "updateData": {
+        "name": "Physics cypress",
+        "description": "Physics description",
+        "course_id": ""
+    }
+}

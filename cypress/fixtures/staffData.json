@@ -1,0 +1,26 @@
+{
+    "createData": {
+        "first_Name": "John",
+        "last_Name": "Doe",
+        "email": "john.doe6@example.com",
+        "phone": "01555555555",
+        "address_line_1": "West Khabaspur",
+        "country": "Bangladesh",
+        "city": "Faridpur",
+        "postcode": "7800",
+        "role": "Teacher",
+        "password": "Password123"
+    },
+    "updateData": {
+        "first_Name": "Sumaiya",
+        "last_Name": "Akter",
+        "email": "sumaiya.akter@example.com",
+        "phone": "01555555555",
+        "address_line_1": "West Khabaspur",
+        "country": "Bangladesh",
+        "city": "Faridpur",
+        "postcode": "7800",
+        "role": "Administrator",
+        "password": "123"
+    }
+}

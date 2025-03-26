@@ -1,0 +1,14 @@
+{
+    "createData": {
+        "name": "Awarding Body cy",
+        "accreditation_start_date": "01-11-2024",
+        "accreditation_expiry_date": "30-12-2024",
+        "description": "This is a description."
+    },
+    "updateData": {
+        "name": "Awarding update cy",
+        "accreditation_start_date": "05-11-2024",
+        "accreditation_expiry_date": "25-12-2024",
+        "description": "This is a description update."
+    }
+}

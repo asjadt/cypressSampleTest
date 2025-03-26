@@ -23,3 +23,5 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+import "./commands/authCommands";
+import "./commands/awardingBody";
